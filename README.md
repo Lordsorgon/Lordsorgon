@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Soren</h1>
-<h3 align="center">A curious developer from the United States</h3>
 
 - 🔭 I’m currently working on **A desk management software**
 
